@@ -43,7 +43,7 @@ The goal of this project is to get to know Unity DOTS better. The DOTS (Data-Ori
 
 ## Download
 
-You can download DOTS Arkanoid packages for Android and Windows in [Release page](https://github.com/EugenyN/DOTS-Arkanoid/releases).
+You can download DOTS Arkanoid packages for Android and Windows in [Release page](https://github.com/himeshez/Pixels-Arkanoid/releases/tag/v0.1).
 
 
 ## License
